@@ -1,0 +1,30 @@
+html {
+    font-family: 'Aldrich', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+h1{
+    font-size: 34px
+}
+
+p{
+    font-size: 17px
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
+
+.btn {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Aldrich', sans-serif;
+}
